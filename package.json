@@ -1,0 +1,12 @@
+{
+  "name": "discussion_portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
